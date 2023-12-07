@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQIHZ0WKdCX2bX9ihcU7+ntkBO2M66erBcKO37lN79VwPciBInZYwDhrksg8hxPelJIX/97M3VlqdCYpKh3Hlw==",
+  "dgSpecHash": "osR07eWkNWsNt4B2Dt+eJocZUEcevuP5nNAHm4Vos8citCgmpOu0SzxQb5pnWGUtXhz/xOkFgSCv8KpzVZTy9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
+  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Api-Swagger-Sql-CodeFirst-Project\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -2491,11 +2491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
+      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Api-Swagger-Sql-CodeFirst-Project\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
       "projectName": "CoreApiSwaggerProject",
-      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
+      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Api-Swagger-Sql-CodeFirst-Project\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\CoreApiSwaggerProject.csproj",
       "packagesPath": "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\obj\\",
+      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Api-Swagger-Sql-CodeFirst-Project\\CoreApiSwaggerProject\\CoreApiSwaggerProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
